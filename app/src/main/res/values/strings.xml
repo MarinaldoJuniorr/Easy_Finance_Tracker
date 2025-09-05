@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Easy_Finance_Tracker</string>
+    <string name="btn_add">Adicionar</string>
+    <string name="logo_app">logo_app</string>
+    <string name="value">R$ %1$.2f</string>
+    <string name="title_start">Nenhuma categoria foi adicionada</string>
+    <string name="subtitle_start">Adicione uma categoria para iniciar sua lista de finanças</string>
+    <string name="total_expenses_fragment_list">Despesas totais</string>
+    <string name="title_category_fragment_list">Categorias de despesas</string>
+    <string name="title_expense_fragment_list">Despesas</string>
+    <string name="btn_add_expense">Adicionar despesas</string>
+    <string name="title_expense_bottom">Adicionar despesas</string>
+    <string name="hint_expense">Ex.: Pagamento de internet</string>
+    <string name="hint_expense_amount">Ex.: 395.00</string>
+    <string name="title_category_selection_expense_bottom">Categoria da despesas</string>
+    <string name="btn_add_expense_bottom">Adicionar</string>
+    <string name="title_category_bottom">Criar uma categoria</string>
+    <string name="title_color_category_bottom">Escolha uma cor para a categoria</string>
+    <string name="bt_create">Criar</string>
+    <string name="no_data_registered">sem regitro de dados</string>
+    <string name="btn_delete">Deletar</string>
+    <string name="btn_update">Atualizar</string>
+    <string name="label_info_edit">Quando estiver editando, você pode somente alterar a cor!</string>
+    <string name="label_category_delete">Deletando uma categoria, você ira deletar todos os registros linkados, você tem certeza?</string>
+    //TODO() CHECAR ISSO COM A JU
+    <string name="label_delete_confirm">“Tem certeza? Deletando uma categoria ira deletar os registros?</string>
+</resources>
